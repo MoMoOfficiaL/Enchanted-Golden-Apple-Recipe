@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "craftable_enchanted_golden_apple",
+  "version": "1.1.0",
+  "name": "Craftable Enchanted Golden Apple",
+  "description": "English:Simple Enchanted Golden Apple Crafting Mod,Remember, try not to use it on someone else's server. ；中文：简单的附魔金苹果制作模组，切记，尽量不要在别人的服务器上使用。",
+  "authors": [
+    "MoMoOfficiaL"
+  ],
+  "contact": {
+    "homepage": "https://space.bilibili.com/487905926",
+    "issues": "https://t.bilibili.com/664965189215453205",
+    "sources": "https://t.bilibili.com/664965189215453205"
+  },
+  "license": "GNU Lesser General Public License version 3 (LGPLv3)",
+  "icon": "assets/craftable_enchanted_golden_apple/icon.png",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.19",
+    "java": ">=17"
+  }
+}
